@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">
     Web Developer working out of 
-    <a href="https://github.com/JM-n-Co" target="_blank">JM & Co</a>
+    <a href="https://github.com/WildRoseDevs" target="_blank">Wild Rose Devs.</a>
 </h3>
 
 <p align="center">
